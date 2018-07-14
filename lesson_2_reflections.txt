@@ -13,3 +13,7 @@ If you only commit one file from the staging area at a time to the repository, a
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If you wanted to make a major change to the files, making a new branch would allow you to change as much as you want in the repository without worrying about the ramifications to the rest of the files. It's easy to switch between branches, and thus easy to work on separate but similar versions of a project.
+
+How do the diagrams help you visualize the branch structure?
+
+It's easier to see where branches begin and end. It's also easy to see parent-child relationships of branches.
