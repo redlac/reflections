@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+All of the required git files are placed in the current directory. No commits are made automatically. The ".git" files are needed in order for the git commands to work.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is an itermediate area between the working directory and the repository, it sets up which files are going to be commited. I think it's used as an organizational tool, so you don't have to commit single files one at a time to the repository, and can instead group related files together and commit them together.
