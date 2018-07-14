@@ -1,0 +1,28 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It showed the exact line with a plus(+) where the new text was added.
+Without the diff I would have had to compare the two files manually, which would take much longer.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+You could see all of the changes that were made in the past, and look through them one-by-one to understand them.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having version automatically saved, like Google Docs does?
+
+The commits in Git could turn out to be too large, especially if you forget to commit before too much work is done. A benefit of Git is that you are guanteed to commit only when you say so, so the most logical choice can be made on when to commit something.o
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is frequently used for saved multiple versions of files that are dependant on each other, like most coding projects. Google Docs is usually used fortext documents, which do not usually contain dependencies to other files. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+"git log", will show you the entire commit history of the files in the repository. "git diff", followed by the name of the older file, and then the name of a new file, will show you what has been added or removed in the newer file.
+
+How might using version control make you more confident to make changes that could break something?
+
+It's very easy to revert to the previous version of the entire batch of files you are working on, check the logs to see what lines of code were added and removed, and make changes as needed.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Pretty much all of my programming projects, it will be extremely useful.
