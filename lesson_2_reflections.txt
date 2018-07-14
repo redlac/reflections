@@ -21,3 +21,7 @@ It's easier to see where branches begin and end. It's also easy to see parent-ch
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The branches are then merged into the one you currently have checkout out. The changes from both branches are combined together. The structure of the branches is like a tree, so representing it by drawing branches is the best way.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The merge conflicts prevent automatic merging. This will ensure that you always know exaclty what the differences are between two files with the same name in different branches, and can edit them accordingly. A con would be thatthe changes have to be dealt with manually, thus taking up time, rather than the computer figuring it out.
