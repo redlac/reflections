@@ -17,3 +17,7 @@ If you wanted to make a major change to the files, making a new branch would all
 How do the diagrams help you visualize the branch structure?
 
 It's easier to see where branches begin and end. It's also easy to see parent-child relationships of branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The branches are then merged into the one you currently have checkout out. The changes from both branches are combined together. The structure of the branches is like a tree, so representing it by drawing branches is the best way.
