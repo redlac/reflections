@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 You would then be able to access your repository from anywhere that you can access Github, rather than only having one copy on your local machine.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+If changes were pulled automatically to your local machine, there might be some conflicts that you don't want, and you don't want the files you are working on to be overwritten by something pulled from GitHub.
