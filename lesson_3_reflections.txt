@@ -13,3 +13,7 @@ Forks are only available on GitHub, they are essentially like cloning someone el
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The next time you fetch or pull from the remote online, you can compare the state of the local copy to the online copy. If someone other than you changes the online copy, you will know where these changes occured by comparing the online remote to your local remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could send files back and forth through email, for instance. It might be slightly easier to get access to files this way, and the interface would be better for very simple projects. However, if there was more than a couple of email threads for different changes in different files, it could get very difficult to keep track of changes.
