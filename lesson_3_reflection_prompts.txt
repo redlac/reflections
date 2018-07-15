@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+You would then be able to access your repository from anywhere that you can access Github, rather than only having one copy on your local machine.
