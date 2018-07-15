@@ -17,3 +17,7 @@ The next time you fetch or pull from the remote online, you can compare the stat
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 You could send files back and forth through email, for instance. It might be slightly easier to get access to files this way, and the interface would be better for very simple projects. However, if there was more than a couple of email threads for different changes in different files, it could get very difficult to keep track of changes.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You can create an entirely different version of a project, and not worry about creating bugs in the master branch. If everyone made all of their changes in the master branch it would be easy to see which changes are being in one central place.
